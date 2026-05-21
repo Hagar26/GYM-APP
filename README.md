@@ -1,17 +1,37 @@
-# React + Vite
+# 🏋️ FitElite | Modern Fitness Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A highly responsive, visually appealing landing page for a premium fitness center. Built with a focus on modern UI/UX design, clean code architecture, and smooth user interactions.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[Insert Live Link Here] (e.g., Vercel, Netlify, or GitHub Pages)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Screenshots
+<img width="1366" height="640" alt="Annotation 2026-05-21 032543" src="https://github.com/user-attachments/assets/fdfe2341-c10f-42eb-b28f-5be1476ab610" />
+/fitelite-landing-page.git](https://github.com/أHagar26/fitelite-landing-page.git)
 
-## React Compiler
+## ✨ Key Features
+* **Fully Responsive Design:** Perfectly adapts to all screen sizes (Mobile, Tablet, and Desktop) without breaking the layout.
+* **Modern UI/UX:** Dark-themed aesthetic with vibrant red (`#E11D48`) accents, matching premium fitness brand standards.
+* **Smart Navigation:** * Dynamic Navbar that changes styling on scroll.
+    * Active section tracking using `IntersectionObserver`.
+    * Interactive mobile hamburger menu with scroll-lock functionality.
+* **Clean Architecture:** Well-structured components and highly maintainable code.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
+* **[React.js](https://reactjs.org/)** - Frontend Library
+* **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for rapid styling
+* **[Vite](https://vitejs.dev/)** - Next Generation Frontend Tooling
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# GYM-APP
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+Make sure you have Node.js installed on your machine.
+
+### Installation
+
+1. Clone the repo:
+   ```sh
+   git clone [https://github.com/Hagar26<img width="1366" height="640" alt="Annotation 2026-05-21 032543" src="https://github.com/user-attachments/assets/33840211-e285-48cd-88d0-42cbe61291d4" />
+
