@@ -3,8 +3,7 @@
 > A highly responsive, visually appealing landing page for a premium fitness center. Built with a focus on modern UI/UX design, clean code architecture, and smooth user interactions.
 
 ## 🔗 Live Demo
-[Insert Live Link Here] (e.g., Vercel, Netlify, or GitHub Pages)
-
+https://gymapp-tau-indol.vercel.app/
 ## 📸 Screenshots
 <img width="1366" height="640" alt="Annotation 2026-05-21 032543" src="https://github.com/user-attachments/assets/fdfe2341-c10f-42eb-b28f-5be1476ab610" />
 /fitelite-landing-page.git](https://github.com/أHagar26/fitelite-landing-page.git)
