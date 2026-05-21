@@ -33,5 +33,5 @@ Make sure you have Node.js installed on your machine.
 
 1. Clone the repo:
    ```sh
-   git clone [https://github.com/Hagar26<img width="1366" height="640" alt="Annotation 2026-05-21 032543" src="https://github.com/user-attachments/assets/33840211-e285-48cd-88d0-42cbe61291d4" />
+   git clone https://github.com/Hagar26/GYM-APP.git
 
